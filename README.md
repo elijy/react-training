@@ -26,7 +26,7 @@
 - [x] React 24: Set State with this.setState
 - [x] React 25: Bind 'this' to a Class Method
 - [x] React 26: Bind 'this' with an ES6 Arrow Function
-- [ ] React 27: Use State to Toggle an Element
+- [x] React 27: Use State to Toggle an Element
 - [x] React 28: Write a Simple Counter
-- [ ] React 29: Create a Controlled Input
-- [ ] React 30: Create a Controlled Form
+- [x] React 29: Create a Controlled Input
+- [x] React 30: Create a Controlled Form

@@ -67,3 +67,22 @@
   color: white;
   background-color: blue;
 }
+
+.form {
+  padding: 20px;
+  background-color: #a64092;
+}
+.form input {
+  padding: 20px;
+}
+.form select {
+  padding: 20px;
+  margin: 20px;
+}
+
+.form button {
+  padding: 15px;
+  font-size: 20px;
+  color: white;
+  background-color: red;
+}

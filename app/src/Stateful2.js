@@ -1,11 +1,6 @@
 import React, { Component } from 'react';
 
 class Stateful2 extends Component {
-  constructor() {
-    // WE need this to start using state
-    super();
-  }
-
   render() {
     return (
       <div className="stateful">

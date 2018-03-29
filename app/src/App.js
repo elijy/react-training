@@ -5,6 +5,7 @@ import Part1 from './Part1';
 import Stateless from './Stateless';
 import Stateful from './Stateful';
 import Stateful2 from './Stateful2';
+import Form from './Form';
 
 
 class App extends Component {
@@ -37,6 +38,7 @@ class App extends Component {
         <Part1 list={['i','have','no','idea']}/>
         <Stateful />
         <Stateful2 count={this.state.count} upCounter={this.upCounter}/>
+        <Form />
       </div>
     );
   }
