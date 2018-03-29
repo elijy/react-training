@@ -52,6 +52,11 @@
 }
 
 .default-props {
-  padding: 20px;
+  padding: 5px;
   background-color: #2cd4bb;
+}
+
+.stateful {
+  padding: 20px;
+  background-color: rgb(215, 103, 12);
 }
