@@ -1,10 +1,10 @@
 # react-training
 
-- [x]React 01: Create a Simple JSX Element
+- [x] React 01: Create a Simple JSX Element
 - [x] React 02: Create a Complex JSX Element
 - [x] React 03: Add Comments in JSX
 - [x] React 04: Render HTML Elements to the DOM
-- [x]React 05: Define an HTML Class in JSX
+- [x] React 05: Define an HTML Class in JSX
 - [x] React 06: Learn About Self-Closing JSX Tags
 - [x] React 07: Create a Stateless Functional Component
 - [x] React 08: Create a Component with React
