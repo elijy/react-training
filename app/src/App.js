@@ -6,6 +6,7 @@ import Stateless from './Stateless';
 import Stateful from './Stateful';
 import Stateful2 from './Stateful2';
 import Form from './Form';
+import LifeCycle from './LifeCycle';
 
 
 class App extends Component {
@@ -39,6 +40,7 @@ class App extends Component {
         <Stateful />
         <Stateful2 count={this.state.count} upCounter={this.upCounter}/>
         <Form />
+        <LifeCycle />
       </div>
     );
   }

@@ -31,6 +31,7 @@
   background-color: goldenrod;
 }
 
+
 .stateless {
   background-color: dodgerblue;
 }
@@ -85,4 +86,9 @@
   font-size: 20px;
   color: white;
   background-color: red;
+}
+
+.lifecycle {
+  background-color: rgb(90, 195, 8);
+  padding: 20px;
 }

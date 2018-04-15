@@ -30,16 +30,16 @@
 - [x] React 28: Write a Simple Counter
 - [x] React 29: Create a Controlled Input
 - [x] React 30: Create a Controlled Form
-- [ ] React 31: Pass State as Props to Child Components
-- [ ] React 32: Pass a Callback as Props
-- [ ] React 33: Use the Lifecycle Method componentWillMount
-- [ ] React 34: Use the Lifecycle Method componentDidMount
-- [ ] React 35: Add Event Listeners
-- [ ] React 36: Manage Updates with Lifecycle Methods
-- [ ] React 37: Optimize Re-Renders with shouldComponentUpdate
-- [ ] React 38: Introducing Inline Styles
-- [ ] React 39: Add Inline Styles in React
-- [ ] React 40: Use Advanced JavaScript in React Render Method
+- [x] React 31: Pass State as Props to Child Components
+- [x] React 32: Pass a Callback as Props
+- [x] React 33: Use the Lifecycle Method componentWillMount
+- [x] React 34: Use the Lifecycle Method componentDidMount
+- [x] React 35: Add Event Listeners
+- [x] React 36: Manage Updates with Lifecycle Methods
+- [x] React 37: Optimize Re-Renders with shouldComponentUpdate
+- [x] React 38: Introducing Inline Styles
+- [x] React 39: Add Inline Styles in React
+- [x] React 40: Use Advanced JavaScript in React Render Method
 - [ ] React 41: Render with an If/Else Condition
 - [ ] React 42: Use && for a More Concise Conditional
 - [ ] React 43: Return null to Prevent Rendering
